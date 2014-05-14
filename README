@@ -1,0 +1,5 @@
+Errorify closure
+=========
+
+Thrift service which wraps all functions with
+try/catch and adds logging statements.
